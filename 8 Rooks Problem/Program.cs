@@ -8,7 +8,7 @@ namespace _8_Rooks_Problem
 {
     class Program
     {
-		private static int N = 8; // One dimension of the chess board.
+	private static int N = 8; // One dimension of the chess board.
         private static int k = 1; // Step counter
 		
         // Printing out the chess board step by step
